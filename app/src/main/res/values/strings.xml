@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">What\'s the weather</string>
+    <string name="callAPI">Click here to get paris meteo</string>
+    <string name="text_zone">Here is the weather</string>
+    <string name="click_here_to_see_informations">Click here to see informations</string>
+    <string name="textview">TextView</string>
+    <string name="show_more_informations">show more informations</string>
+</resources>
